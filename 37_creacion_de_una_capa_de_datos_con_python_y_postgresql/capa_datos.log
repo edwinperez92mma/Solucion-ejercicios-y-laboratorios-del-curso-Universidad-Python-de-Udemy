@@ -1,0 +1,553 @@
+07:15:53 PM: DEBUG [logger_base.py:12] Mensaje a nivel de debug
+07:15:53 PM: INFO [logger_base.py:13] Mensaje a nivel de info
+07:15:53 PM: WARNING [logger_base.py:14] Mensaje a nivel de warning
+07:15:53 PM: ERROR [logger_base.py:15] Mensaje a nivel de error
+07:15:53 PM: CRITICAL [logger_base.py:16] Mensaje a nivel de critical
+07:45:30 PM: DEBUG [videojuego.py:77] 
+            Id_videojuego: 1, Nombre: Resident Evil 3,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1999
+        
+07:46:40 PM: DEBUG [videojuego.py:77] 
+            Id_videojuego: 1, Nombre: Resident Evil 3,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1999
+        
+07:46:40 PM: DEBUG [videojuego.py:80] 
+            Id_videojuego: 2, Nombre: Grand Theft Auto III,
+            Genero: Acción-Aventura, Desarrolladora: Rockstar,
+            Plataforma: Play Station 2, Año: 2001
+        
+07:47:38 PM: DEBUG [videojuego.py:77] 
+            Id_videojuego: 1, Nombre: Resident Evil 3,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1999
+        
+07:47:38 PM: DEBUG [videojuego.py:80] 
+            Id_videojuego: 2, Nombre: Grand Theft Auto III,
+            Genero: Acción-Aventura, Desarrolladora: Rockstar,
+            Plataforma: Play Station 2, Año: 2001
+        
+07:47:38 PM: DEBUG [videojuego.py:83] 
+            Id_videojuego: 3, Nombre: Perfect Dark,
+            Genero: FPS, Desarrolladora: Rare,
+            Plataforma: Nintendo 64, Año: 2000
+        
+09:09:57 PM: DEBUG [videojuego.py:77] 
+            Id_videojuego: 1, Nombre: Resident Evil 3,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1999
+        
+09:09:57 PM: DEBUG [videojuego.py:81] 
+            Id_videojuego: None, Nombre: Resident Evil 3,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1999
+        
+09:11:59 PM: DEBUG [videojuego.py:77] 
+            Id_videojuego: 1, Nombre: Resident Evil 3,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1999
+        
+09:11:59 PM: DEBUG [videojuego.py:81] 
+            Id_videojuego: None, Nombre: Resident Evil 3,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1999
+        
+09:11:59 PM: DEBUG [videojuego.py:85] 
+            Id_videojuego: 1, Nombre: None,
+            Genero: None, Desarrolladora: None,
+            Plataforma: None, Año: None
+        
+10:12:15 AM: DEBUG [Conexion.py:47] <__main__.Conexion object at 0x000001FCCEAABFD0>
+10:12:56 AM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000022A86A91250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:13:27 AM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001DDC7211250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:13:27 AM: DEBUG [Conexion.py:37] Se abrió correctamente el cursor: <connection object at 0x000001DDC7211250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:15:16 AM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000026D34C01250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:15:16 AM: DEBUG [Conexion.py:37] Se abrió correctamente el cursor: (<connection object at 0x0000026D34C01250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>, None)
+10:17:20 AM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001FB9C141250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:17:20 AM: ERROR [Conexion.py:40] Ocurrió una excepción al obtener el cursor: Conexion.obtener_conexion() takes 1 positional argument but 2 were given
+10:17:48 AM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000002D62B4A1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:17:48 AM: DEBUG [Conexion.py:37] Se abrió correctamente el cursor: <connection object at 0x000002D62B4A1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:19:07 AM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001B233141250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:19:07 AM: ERROR [Conexion.py:40] Ocurrió una excepción al obtener el cursor: unsupported operand type(s) for +: 'psycopg2.extensions.connection' and 'NoneType'
+10:19:21 AM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001F971E21250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:19:21 AM: DEBUG [Conexion.py:37] Se abrió correctamente el cursor: (<connection object at 0x000001F971E21250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>, None)
+10:20:40 AM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001BD49BC1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:20:40 AM: DEBUG [Conexion.py:37] Se abrió correctamente el cursor: <built-in method cursor of psycopg2.extensions.connection object at 0x000001BD49BC1250>
+10:21:31 AM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x00000186824D1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:21:31 AM: DEBUG [Conexion.py:37] Se abrió correctamente el cursor: <connection object at 0x00000186824D1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:22:14 AM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001F81E3F1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:22:14 AM: ERROR [Conexion.py:41] Ocurrió una excepción al obtener el cursor: unsupported operand type(s) for |: 'psycopg2.extensions.connection' and 'NoneType'
+10:22:48 AM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000016F89FE1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:22:48 AM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x0000016F8BE8D7E0; closed: 0>
+10:48:02 AM: DEBUG [Videojuego_Dao.py:24] <__main__.Videojuego_Dao object at 0x000001D73AC97E80>
+10:49:10 AM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001A9D6201250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:49:10 AM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000001A9D83DD7E0; closed: 0>
+10:51:30 AM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000019E0F041250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:51:30 AM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x0000019E10EB57E0; closed: 0>
+10:51:54 AM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x00000281F5781250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:51:54 AM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x00000281F75D57E0; closed: 0>
+10:52:25 AM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000022F1CDA1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:52:25 AM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x0000022F1EFA57E0; closed: 0>
+10:52:25 AM: DEBUG [Videojuego_Dao.py:27] 
+            Id_videojuego: 1, Nombre: Resident Evil 3,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1999
+        
+10:52:25 AM: DEBUG [Videojuego_Dao.py:27] 
+            Id_videojuego: 2, Nombre: Grand Theft Auto III,
+            Genero: Acción-Aventura, Desarrolladora: Rockstar,
+            Plataforma: Play Station 2, Año: 2001
+        
+10:52:25 AM: DEBUG [Videojuego_Dao.py:27] 
+            Id_videojuego: 9, Nombre: Warcraft II: Tides of Darkness,
+            Genero: Estrategia, Desarrolladora: Blizzard Entertainment,
+            Plataforma: Microsoft Windows, Año: 1995
+        
+10:52:25 AM: DEBUG [Videojuego_Dao.py:27] 
+            Id_videojuego: 10, Nombre: Perfect Dark,
+            Genero: FPS, Desarrolladora: Rare,
+            Plataforma: Nintendo 64, Año: 2000
+        
+10:52:25 AM: DEBUG [Videojuego_Dao.py:27] 
+            Id_videojuego: 11, Nombre: Super Mario World 2: Yoshi's Island,
+            Genero: Plataformas, Desarrolladora: Nintendo,
+            Plataforma: Super Nintendo, Año: 1995
+        
+10:53:14 AM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000029A349F1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+10:53:14 AM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x0000029A368557E0; closed: 0>
+10:53:14 AM: DEBUG [Videojuego_Dao.py:27] 
+            Id_videojuego: 1, Nombre: Resident Evil 3,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1999
+        
+10:53:14 AM: DEBUG [Videojuego_Dao.py:27] 
+            Id_videojuego: 2, Nombre: Grand Theft Auto III,
+            Genero: Acción-Aventura, Desarrolladora: Rockstar,
+            Plataforma: Play Station 2, Año: 2001
+        
+10:53:14 AM: DEBUG [Videojuego_Dao.py:27] 
+            Id_videojuego: 9, Nombre: Warcraft II: Tides of Darkness,
+            Genero: Estrategia, Desarrolladora: Blizzard Entertainment,
+            Plataforma: Microsoft Windows, Año: 1995
+        
+10:53:14 AM: DEBUG [Videojuego_Dao.py:27] 
+            Id_videojuego: 10, Nombre: Perfect Dark,
+            Genero: FPS, Desarrolladora: Rare,
+            Plataforma: Nintendo 64, Año: 2000
+        
+10:53:14 AM: DEBUG [Videojuego_Dao.py:27] 
+            Id_videojuego: 11, Nombre: Super Mario World 2: Yoshi's Island,
+            Genero: Plataformas, Desarrolladora: Nintendo,
+            Plataforma: Super Nintendo, Año: 1995
+        
+08:47:44 PM: DEBUG [Videojuego_Dao.py:37] Videojuegos insertados: <__main__.Videojuego_Dao object at 0x000001FD0CFDBEB0>
+08:48:09 PM: DEBUG [Videojuego_Dao.py:37] Videojuegos insertados: <__main__.Videojuego_Dao object at 0x000001AFF6D1BE20>
+08:48:09 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001AFF6BA1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:48:09 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000001AFF89FD700; closed: 0>
+08:49:37 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000002950BA11250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:49:37 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000002950D86D700; closed: 0>
+08:49:51 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001E4714B1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:49:51 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000001E47330D700; closed: 0>
+08:49:51 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id_videojuego: 1, Nombre: Resident Evil 3,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1999
+        
+08:49:51 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id_videojuego: 2, Nombre: Grand Theft Auto III,
+            Genero: Acción-Aventura, Desarrolladora: Rockstar,
+            Plataforma: Play Station 2, Año: 2001
+        
+08:49:51 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id_videojuego: 9, Nombre: Warcraft II: Tides of Darkness,
+            Genero: Estrategia, Desarrolladora: Blizzard Entertainment,
+            Plataforma: Microsoft Windows, Año: 1995
+        
+08:49:51 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id_videojuego: 10, Nombre: Perfect Dark,
+            Genero: FPS, Desarrolladora: Rare,
+            Plataforma: Nintendo 64, Año: 2000
+        
+08:49:51 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id_videojuego: 11, Nombre: Super Mario World 2: Yoshi's Island,
+            Genero: Plataformas, Desarrolladora: Nintendo,
+            Plataforma: Super Nintendo, Año: 1995
+        
+08:50:32 PM: DEBUG [Videojuego_Dao.py:37] Videojuegos insertados: <__main__.Videojuego_Dao object at 0x000001ED9DFBBE20>
+08:50:32 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001ED9DA11250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:50:32 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000001ED9FC9D700; closed: 0>
+08:50:32 PM: DEBUG [Videojuego_Dao.py:42] 
+            Id_videojuego: 1, Nombre: Resident Evil 3,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1999
+        
+08:50:32 PM: DEBUG [Videojuego_Dao.py:42] 
+            Id_videojuego: 2, Nombre: Grand Theft Auto III,
+            Genero: Acción-Aventura, Desarrolladora: Rockstar,
+            Plataforma: Play Station 2, Año: 2001
+        
+08:50:32 PM: DEBUG [Videojuego_Dao.py:42] 
+            Id_videojuego: 9, Nombre: Warcraft II: Tides of Darkness,
+            Genero: Estrategia, Desarrolladora: Blizzard Entertainment,
+            Plataforma: Microsoft Windows, Año: 1995
+        
+08:50:32 PM: DEBUG [Videojuego_Dao.py:42] 
+            Id_videojuego: 10, Nombre: Perfect Dark,
+            Genero: FPS, Desarrolladora: Rare,
+            Plataforma: Nintendo 64, Año: 2000
+        
+08:50:32 PM: DEBUG [Videojuego_Dao.py:42] 
+            Id_videojuego: 11, Nombre: Super Mario World 2: Yoshi's Island,
+            Genero: Plataformas, Desarrolladora: Nintendo,
+            Plataforma: Super Nintendo, Año: 1995
+        
+08:55:12 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000023626461250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:56:29 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000026793FA1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:56:46 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001DB86611250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:58:00 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000002090B621250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:58:00 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000002090D80D700; closed: 0>
+08:58:19 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000020B663D1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:59:21 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000016E926D1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:59:21 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x0000016E9490D700; closed: 0>
+09:02:47 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x00000291392C1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:03:10 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000002DAFA051250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:04:17 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000019257CD1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:04:28 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001ECC3D31250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:06:44 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001F740561250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:06:44 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000001F7423BD700; closed: 0>
+09:07:30 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001FA7C871250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:07:30 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000001FA7E73D700; closed: 0>
+09:07:48 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x00000269E8C81250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:07:48 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x00000269EAE3D700; closed: 0>
+09:08:37 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001D0ED8C1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:08:37 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000001D0EF74D700; closed: 0>
+09:10:43 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001EC20051250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:10:43 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000001EC222BD700; closed: 0>
+09:10:43 PM: DEBUG [Videojuego_Dao.py:42] 
+            Id_videojuego: 1, Nombre: Resident Evil 3,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1999
+        
+09:10:43 PM: DEBUG [Videojuego_Dao.py:42] 
+            Id_videojuego: 2, Nombre: Grand Theft Auto III,
+            Genero: Acción-Aventura, Desarrolladora: Rockstar,
+            Plataforma: Play Station 2, Año: 2001
+        
+09:10:43 PM: DEBUG [Videojuego_Dao.py:42] 
+            Id_videojuego: 9, Nombre: Warcraft II: Tides of Darkness,
+            Genero: Estrategia, Desarrolladora: Blizzard Entertainment,
+            Plataforma: Microsoft Windows, Año: 1995
+        
+09:10:43 PM: DEBUG [Videojuego_Dao.py:42] 
+            Id_videojuego: 10, Nombre: Perfect Dark,
+            Genero: FPS, Desarrolladora: Rare,
+            Plataforma: Nintendo 64, Año: 2000
+        
+09:10:43 PM: DEBUG [Videojuego_Dao.py:42] 
+            Id_videojuego: 11, Nombre: Super Mario World 2: Yoshi's Island,
+            Genero: Plataformas, Desarrolladora: Nintendo,
+            Plataforma: Super Nintendo, Año: 1995
+        
+09:12:11 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000022D59CB1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:12:11 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x0000022D5BE9D700; closed: 0>
+09:15:01 PM: DEBUG [Videojuego_Dao.py:36] 
+            Id_videojuego: None, Nombre: Age of Empires II,
+            Genero: Estrategia, Desarrolladora: Ensemble Studios,
+            Plataforma: Microsoft Windows, Año: 1999
+        
+09:15:01 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001DA2E8739A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:15:01 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000001DA306CD700; closed: 0>
+09:15:01 PM: DEBUG [Videojuego_Dao.py:43] 
+            Id_videojuego: 1, Nombre: Resident Evil 3,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1999
+        
+09:15:01 PM: DEBUG [Videojuego_Dao.py:43] 
+            Id_videojuego: 2, Nombre: Grand Theft Auto III,
+            Genero: Acción-Aventura, Desarrolladora: Rockstar,
+            Plataforma: Play Station 2, Año: 2001
+        
+09:15:01 PM: DEBUG [Videojuego_Dao.py:43] 
+            Id_videojuego: 9, Nombre: Warcraft II: Tides of Darkness,
+            Genero: Estrategia, Desarrolladora: Blizzard Entertainment,
+            Plataforma: Microsoft Windows, Año: 1995
+        
+09:15:01 PM: DEBUG [Videojuego_Dao.py:43] 
+            Id_videojuego: 10, Nombre: Perfect Dark,
+            Genero: FPS, Desarrolladora: Rare,
+            Plataforma: Nintendo 64, Año: 2000
+        
+09:15:01 PM: DEBUG [Videojuego_Dao.py:43] 
+            Id_videojuego: 11, Nombre: Super Mario World 2: Yoshi's Island,
+            Genero: Plataformas, Desarrolladora: Nintendo,
+            Plataforma: Super Nintendo, Año: 1995
+        
+09:15:46 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001F827D21250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:15:46 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000001F829B7D700; closed: 0>
+09:19:21 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000021417C81250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:19:21 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x0000021419ADD700; closed: 0>
+09:20:07 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001B9C6641250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:20:07 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000001B9C849D700; closed: 0>
+09:22:12 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001A4D6261250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:22:12 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000001A4D810D700; closed: 0>
+09:22:12 PM: DEBUG [Videojuego_Dao.py:37] Videojuego insertado: 
+            Id_videojuego: None, Nombre: Age of Empires II,
+            Genero: Estrategia, Desarrolladora: Ensemble Studios,
+            Plataforma: Microsoft Windows, Año: 1999
+        
+09:22:12 PM: DEBUG [Videojuego_Dao.py:44] Videojuegos insertados: 1
+09:22:12 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001A4D6261250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:22:13 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000001A4D810D700; closed: 0>
+09:22:13 PM: DEBUG [Videojuego_Dao.py:49] 
+            Id_videojuego: 1, Nombre: Resident Evil 3,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1999
+        
+09:22:13 PM: DEBUG [Videojuego_Dao.py:49] 
+            Id_videojuego: 2, Nombre: Grand Theft Auto III,
+            Genero: Acción-Aventura, Desarrolladora: Rockstar,
+            Plataforma: Play Station 2, Año: 2001
+        
+09:22:13 PM: DEBUG [Videojuego_Dao.py:49] 
+            Id_videojuego: 9, Nombre: Warcraft II: Tides of Darkness,
+            Genero: Estrategia, Desarrolladora: Blizzard Entertainment,
+            Plataforma: Microsoft Windows, Año: 1995
+        
+09:22:13 PM: DEBUG [Videojuego_Dao.py:49] 
+            Id_videojuego: 10, Nombre: Perfect Dark,
+            Genero: FPS, Desarrolladora: Rare,
+            Plataforma: Nintendo 64, Año: 2000
+        
+09:22:13 PM: DEBUG [Videojuego_Dao.py:49] 
+            Id_videojuego: 11, Nombre: Super Mario World 2: Yoshi's Island,
+            Genero: Plataformas, Desarrolladora: Nintendo,
+            Plataforma: Super Nintendo, Año: 1995
+        
+09:22:13 PM: DEBUG [Videojuego_Dao.py:49] 
+            Id_videojuego: 12, Nombre: Age of Empires II,
+            Genero: Estrategia, Desarrolladora: Ensemble Studios,
+            Plataforma: Microsoft Windows, Año: 1999
+        
+09:25:55 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x00000109EDF21250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:25:55 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x00000109EFD9D700; closed: 0>
+09:26:38 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000002F25E441250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:26:38 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000002F26065D700; closed: 0>
+09:26:38 PM: DEBUG [Videojuego_Dao.py:29] Videojuego insertado: 
+            Id_videojuego: None, Nombre: Super Mario 64,
+            Genero: Aventura, Desarrolladora: Nintendo,
+            Plataforma: Nintendo 64, Año: 1996
+        
+09:26:38 PM: DEBUG [Videojuego_Dao.py:36] Videojuegos insertados: 1
+09:26:38 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000002F25E441250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+09:26:38 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000002F26065D700; closed: 0>
+09:26:38 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id_videojuego: 1, Nombre: Resident Evil 3,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1999
+        
+09:26:38 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id_videojuego: 2, Nombre: Grand Theft Auto III,
+            Genero: Acción-Aventura, Desarrolladora: Rockstar,
+            Plataforma: Play Station 2, Año: 2001
+        
+09:26:38 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id_videojuego: 9, Nombre: Warcraft II: Tides of Darkness,
+            Genero: Estrategia, Desarrolladora: Blizzard Entertainment,
+            Plataforma: Microsoft Windows, Año: 1995
+        
+09:26:38 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id_videojuego: 10, Nombre: Perfect Dark,
+            Genero: FPS, Desarrolladora: Rare,
+            Plataforma: Nintendo 64, Año: 2000
+        
+09:26:38 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id_videojuego: 11, Nombre: Super Mario World 2: Yoshi's Island,
+            Genero: Plataformas, Desarrolladora: Nintendo,
+            Plataforma: Super Nintendo, Año: 1995
+        
+09:26:38 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id_videojuego: 12, Nombre: Age of Empires II,
+            Genero: Estrategia, Desarrolladora: Ensemble Studios,
+            Plataforma: Microsoft Windows, Año: 1999
+        
+09:26:38 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id_videojuego: 13, Nombre: Super Mario 64,
+            Genero: Aventura, Desarrolladora: Nintendo,
+            Plataforma: Nintendo 64, Año: 1996
+        
+08:12:32 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x00000285BF561250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:12:32 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x00000285C177D700; closed: 0>
+08:13:52 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000019FF3391250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:13:52 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x0000019FF55AD700; closed: 0>
+08:13:52 PM: DEBUG [Videojuego_Dao.py:38] Videojuego actualizado: 
+            Id_videojuego: 1, Nombre: Resident Evil 1,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1996
+        
+08:13:52 PM: DEBUG [Videojuego_Dao.py:50] Videojuego actualizado: 1
+08:13:52 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000019FF3391250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:13:52 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x0000019FF55AD700; closed: 0>
+08:13:52 PM: DEBUG [Videojuego_Dao.py:55] 
+            Id_videojuego: 1, Nombre: Resident Evil 1,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1996
+        
+08:13:52 PM: DEBUG [Videojuego_Dao.py:55] 
+            Id_videojuego: 2, Nombre: Grand Theft Auto III,
+            Genero: Acción-Aventura, Desarrolladora: Rockstar,
+            Plataforma: Play Station 2, Año: 2001
+        
+08:13:52 PM: DEBUG [Videojuego_Dao.py:55] 
+            Id_videojuego: 9, Nombre: Warcraft II: Tides of Darkness,
+            Genero: Estrategia, Desarrolladora: Blizzard Entertainment,
+            Plataforma: Microsoft Windows, Año: 1995
+        
+08:13:52 PM: DEBUG [Videojuego_Dao.py:55] 
+            Id_videojuego: 10, Nombre: Perfect Dark,
+            Genero: FPS, Desarrolladora: Rare,
+            Plataforma: Nintendo 64, Año: 2000
+        
+08:13:52 PM: DEBUG [Videojuego_Dao.py:55] 
+            Id_videojuego: 11, Nombre: Super Mario World 2: Yoshi's Island,
+            Genero: Plataformas, Desarrolladora: Nintendo,
+            Plataforma: Super Nintendo, Año: 1995
+        
+08:13:52 PM: DEBUG [Videojuego_Dao.py:55] 
+            Id_videojuego: 12, Nombre: Age of Empires II,
+            Genero: Estrategia, Desarrolladora: Ensemble Studios,
+            Plataforma: Microsoft Windows, Año: 1999
+        
+08:13:52 PM: DEBUG [Videojuego_Dao.py:55] 
+            Id_videojuego: 13, Nombre: Super Mario 64,
+            Genero: Aventura, Desarrolladora: Nintendo,
+            Plataforma: Nintendo 64, Año: 1996
+        
+08:17:50 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001C5991B1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:17:50 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000001C59B0557E0; closed: 0>
+08:17:50 PM: DEBUG [Videojuego_Dao.py:39] Videojuego actualizado: 
+            Id_videojuego: 1, Nombre: Resident Evil 1,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1996
+        
+08:17:50 PM: DEBUG [Videojuego_Dao.py:51] Videojuego actualizado: 1
+08:17:50 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x000001C5991B1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:17:50 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x000001C59B0557E0; closed: 0>
+08:17:50 PM: DEBUG [Videojuego_Dao.py:56] 
+            Id_videojuego: 1, Nombre: Resident Evil 1,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1996
+        
+08:17:50 PM: DEBUG [Videojuego_Dao.py:56] 
+            Id_videojuego: 2, Nombre: Grand Theft Auto III,
+            Genero: Acción-Aventura, Desarrolladora: Rockstar,
+            Plataforma: Play Station 2, Año: 2001
+        
+08:17:50 PM: DEBUG [Videojuego_Dao.py:56] 
+            Id_videojuego: 9, Nombre: Warcraft II: Tides of Darkness,
+            Genero: Estrategia, Desarrolladora: Blizzard Entertainment,
+            Plataforma: Microsoft Windows, Año: 1995
+        
+08:17:50 PM: DEBUG [Videojuego_Dao.py:56] 
+            Id_videojuego: 10, Nombre: Perfect Dark,
+            Genero: FPS, Desarrolladora: Rare,
+            Plataforma: Nintendo 64, Año: 2000
+        
+08:17:50 PM: DEBUG [Videojuego_Dao.py:56] 
+            Id_videojuego: 11, Nombre: Super Mario World 2: Yoshi's Island,
+            Genero: Plataformas, Desarrolladora: Nintendo,
+            Plataforma: Super Nintendo, Año: 1995
+        
+08:17:50 PM: DEBUG [Videojuego_Dao.py:56] 
+            Id_videojuego: 12, Nombre: Age of Empires II,
+            Genero: Estrategia, Desarrolladora: Ensemble Studios,
+            Plataforma: Microsoft Windows, Año: 1999
+        
+08:17:50 PM: DEBUG [Videojuego_Dao.py:56] 
+            Id_videojuego: 13, Nombre: Super Mario 64,
+            Genero: Aventura, Desarrolladora: Nintendo,
+            Plataforma: Nintendo 64, Año: 1996
+        
+08:28:24 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000018EA0921250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:28:24 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x0000018EA27757E0; closed: 0>
+08:28:24 PM: DEBUG [Videojuego_Dao.py:48] Videojuego eliminado: 
+            Id_videojuego: 13, Nombre: None,
+            Genero: None, Desarrolladora: None,
+            Plataforma: None, Año: None
+        
+08:28:24 PM: DEBUG [Videojuego_Dao.py:65] Videojuego eliminado: 
+            Id_videojuego: 13, Nombre: None,
+            Genero: None, Desarrolladora: None,
+            Plataforma: None, Año: None
+        
+08:28:25 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x0000018EA0921250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:28:25 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x0000018EA27757E0; closed: 0>
+08:28:25 PM: DEBUG [Videojuego_Dao.py:70] 
+            Id_videojuego: 1, Nombre: Resident Evil 1,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1996
+        
+08:28:25 PM: DEBUG [Videojuego_Dao.py:70] 
+            Id_videojuego: 2, Nombre: Grand Theft Auto III,
+            Genero: Acción-Aventura, Desarrolladora: Rockstar,
+            Plataforma: Play Station 2, Año: 2001
+        
+08:28:25 PM: DEBUG [Videojuego_Dao.py:70] 
+            Id_videojuego: 9, Nombre: Warcraft II: Tides of Darkness,
+            Genero: Estrategia, Desarrolladora: Blizzard Entertainment,
+            Plataforma: Microsoft Windows, Año: 1995
+        
+08:28:25 PM: DEBUG [Videojuego_Dao.py:70] 
+            Id_videojuego: 10, Nombre: Perfect Dark,
+            Genero: FPS, Desarrolladora: Rare,
+            Plataforma: Nintendo 64, Año: 2000
+        
+08:28:25 PM: DEBUG [Videojuego_Dao.py:70] 
+            Id_videojuego: 11, Nombre: Super Mario World 2: Yoshi's Island,
+            Genero: Plataformas, Desarrolladora: Nintendo,
+            Plataforma: Super Nintendo, Año: 1995
+        
+08:28:25 PM: DEBUG [Videojuego_Dao.py:70] 
+            Id_videojuego: 12, Nombre: Age of Empires II,
+            Genero: Estrategia, Desarrolladora: Ensemble Studios,
+            Plataforma: Microsoft Windows, Año: 1999
+        
+08:29:29 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x00000267E01D1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:29:29 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x00000267E20257E0; closed: 0>
+08:29:29 PM: DEBUG [Videojuego_Dao.py:48] Videojuego eliminado: 
+            Id_videojuego: 13, Nombre: None,
+            Genero: None, Desarrolladora: None,
+            Plataforma: None, Año: None
+        
+08:29:29 PM: DEBUG [Conexion.py:25] Conexión exitosa: <connection object at 0x00000267E01D1250; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:29:29 PM: DEBUG [Conexion.py:38] Se abrió correctamente el cursor: <cursor object at 0x00000267E20257E0; closed: 0>
+08:29:29 PM: DEBUG [Videojuego_Dao.py:69] 
+            Id_videojuego: 1, Nombre: Resident Evil 1,
+            Genero: Survival Horror, Desarrolladora: Capcom,
+            Plataforma: Play Station, Año: 1996
+        
+08:29:29 PM: DEBUG [Videojuego_Dao.py:69] 
+            Id_videojuego: 2, Nombre: Grand Theft Auto III,
+            Genero: Acción-Aventura, Desarrolladora: Rockstar,
+            Plataforma: Play Station 2, Año: 2001
+        
+08:29:29 PM: DEBUG [Videojuego_Dao.py:69] 
+            Id_videojuego: 9, Nombre: Warcraft II: Tides of Darkness,
+            Genero: Estrategia, Desarrolladora: Blizzard Entertainment,
+            Plataforma: Microsoft Windows, Año: 1995
+        
+08:29:29 PM: DEBUG [Videojuego_Dao.py:69] 
+            Id_videojuego: 10, Nombre: Perfect Dark,
+            Genero: FPS, Desarrolladora: Rare,
+            Plataforma: Nintendo 64, Año: 2000
+        
+08:29:29 PM: DEBUG [Videojuego_Dao.py:69] 
+            Id_videojuego: 11, Nombre: Super Mario World 2: Yoshi's Island,
+            Genero: Plataformas, Desarrolladora: Nintendo,
+            Plataforma: Super Nintendo, Año: 1995
+        
+08:29:29 PM: DEBUG [Videojuego_Dao.py:69] 
+            Id_videojuego: 12, Nombre: Age of Empires II,
+            Genero: Estrategia, Desarrolladora: Ensemble Studios,
+            Plataforma: Microsoft Windows, Año: 1999
+        
