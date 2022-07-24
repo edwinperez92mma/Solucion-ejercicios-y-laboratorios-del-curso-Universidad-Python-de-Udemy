@@ -1,0 +1,505 @@
+11:52:32 AM: DEBUG [logger_base.py:12] Mensaje a nivel de debug
+11:52:32 AM: INFO [logger_base.py:13] Mensaje a nivel de info
+11:52:32 AM: WARNING [logger_base.py:14] Mensaje a nivel de warning
+11:52:32 AM: ERROR [logger_base.py:15] Mensaje a nivel de errror
+11:52:32 AM: CRITICAL [logger_base.py:16] Mensaje a nivel de critico
+12:39:55 PM: DEBUG [videojuego.py:75] 
+            Id videojuego: 1 - Nombre: Resident Evil - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Play Station - Año: 1998
+        
+12:40:50 PM: DEBUG [videojuego.py:75] 
+            Id videojuego: 1 - Nombre: Resident Evil - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Play Station - Año: 1998
+        
+12:42:29 PM: DEBUG [videojuego.py:75] 
+            Id videojuego: 1 - Nombre: Resident Evil - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Play Station - Año: 1998
+        
+12:42:29 PM: DEBUG [videojuego.py:79] 
+            Id videojuego: None - Nombre: Resident Evil - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Play Station - Año: 1998
+        
+12:43:17 PM: DEBUG [videojuego.py:75] 
+            Id videojuego: 1 - Nombre: Resident Evil - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Play Station - Año: 1998
+        
+12:43:17 PM: DEBUG [videojuego.py:79] 
+            Id videojuego: None - Nombre: Resident Evil - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Play Station - Año: 1998
+        
+12:43:29 PM: DEBUG [videojuego.py:75] 
+            Id videojuego: 1 - Nombre: Resident Evil - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Play Station - Año: 1998
+        
+12:43:29 PM: DEBUG [videojuego.py:79] 
+            Id videojuego: None - Nombre: Resident Evil - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Play Station - Año: 1998
+        
+12:43:29 PM: DEBUG [videojuego.py:83] 
+            Id videojuego: 1 - Nombre: None - Género: None
+            Desarrolladora: None - Plataforma: None - Año: None
+        
+07:37:03 PM: DEBUG [Conexion.py:23] Conexión exitosa: <connection object at 0x0000029BD0081690; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+07:37:21 PM: DEBUG [Conexion.py:23] Conexión exitosa: <connection object at 0x0000026629AB1690; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+07:37:21 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor: <cursor object at 0x000002662BCE18C0; closed: 0>
+07:42:33 PM: DEBUG [Conexion.py:23] Conexión exitosa: <connection object at 0x000001F091021690; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+07:42:33 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor: <cursor object at 0x000001F092E89A80; closed: 0>
+07:44:43 PM: DEBUG [Conexion.py:23] Conexión exitosa: <connection object at 0x000001E8AE951690; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+07:44:43 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor: <cursor object at 0x000001E8B07CDA80; closed: 0>
+07:44:43 PM: DEBUG [Videojuego_Dao.py:26] 
+            Id videojuego: 1 - Nombre: Resident Evil 1 - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: None - Año: None
+        
+07:44:43 PM: DEBUG [Videojuego_Dao.py:26] 
+            Id videojuego: 2 - Nombre: Grand Theft Auto III - Género: Acción-Aventura
+            Desarrolladora: Rockstar - Plataforma: None - Año: None
+        
+07:44:43 PM: DEBUG [Videojuego_Dao.py:26] 
+            Id videojuego: 9 - Nombre: Warcraft II: Tides of Darkness - Género: Estrategia
+            Desarrolladora: Blizzard Entertainment - Plataforma: None - Año: None
+        
+07:44:43 PM: DEBUG [Videojuego_Dao.py:26] 
+            Id videojuego: 10 - Nombre: Perfect Dark - Género: FPS
+            Desarrolladora: Rare - Plataforma: None - Año: None
+        
+07:44:43 PM: DEBUG [Videojuego_Dao.py:26] 
+            Id videojuego: 11 - Nombre: Super Mario World 2: Yoshi's Island - Género: Plataformas
+            Desarrolladora: Nintendo - Plataforma: None - Año: None
+        
+07:44:43 PM: DEBUG [Videojuego_Dao.py:26] 
+            Id videojuego: 12 - Nombre: Age of Empires II - Género: Estrategia
+            Desarrolladora: Ensemble Studios - Plataforma: None - Año: None
+        
+08:35:23 PM: DEBUG [Conexion.py:23] Conexión exitosa: <connection object at 0x00000185CF6B1690; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:35:23 PM: DEBUG [Videojuego_Dao.py:29] Videojuego insertado: 
+            Id videojuego: None - Nombre: Resident Evil 2 - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Play Station - Año: 1998
+        
+08:35:23 PM: DEBUG [Videojuego_Dao.py:36] Videojuegos insertados: 1
+08:35:23 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor: <cursor object at 0x00000185D1911A80; closed: 0>
+08:35:23 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id videojuego: 1 - Nombre: Resident Evil 1 - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: None - Año: None
+        
+08:35:23 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id videojuego: 2 - Nombre: Grand Theft Auto III - Género: Acción-Aventura
+            Desarrolladora: Rockstar - Plataforma: None - Año: None
+        
+08:35:23 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id videojuego: 9 - Nombre: Warcraft II: Tides of Darkness - Género: Estrategia
+            Desarrolladora: Blizzard Entertainment - Plataforma: None - Año: None
+        
+08:35:23 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id videojuego: 10 - Nombre: Perfect Dark - Género: FPS
+            Desarrolladora: Rare - Plataforma: None - Año: None
+        
+08:35:23 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id videojuego: 11 - Nombre: Super Mario World 2: Yoshi's Island - Género: Plataformas
+            Desarrolladora: Nintendo - Plataforma: None - Año: None
+        
+08:35:23 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id videojuego: 12 - Nombre: Age of Empires II - Género: Estrategia
+            Desarrolladora: Ensemble Studios - Plataforma: None - Año: None
+        
+08:35:23 PM: DEBUG [Videojuego_Dao.py:41] 
+            Id videojuego: 14 - Nombre: Resident Evil 2 - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: None - Año: None
+        
+08:43:38 PM: DEBUG [Conexion.py:23] Conexión exitosa: <connection object at 0x000002A7B3521690; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:43:38 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor: <cursor object at 0x000002A7B5371A80; closed: 0>
+08:43:39 PM: DEBUG [Videojuego_Dao.py:38] Videojuego actualizado: 
+            Id videojuego: 14 - Nombre: Resident Evil 3 - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Play Station - Año: 1999
+        
+08:43:39 PM: DEBUG [Videojuego_Dao.py:50] Videojuegos actualizados: 1
+08:45:28 PM: DEBUG [Conexion.py:23] Conexión exitosa: <connection object at 0x000002A5CE381690; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:45:28 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor: <cursor object at 0x000002A5D05E1A80; closed: 0>
+08:45:28 PM: DEBUG [Videojuego_Dao.py:39] Videojuego actualizado: 
+            Id videojuego: 14 - Nombre: Resident Evil 3 - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Play Station - Año: 1999
+        
+08:45:28 PM: DEBUG [Videojuego_Dao.py:51] Videojuegos actualizados: 1
+08:45:28 PM: DEBUG [Videojuego_Dao.py:56] 
+            Id videojuego: 1 - Nombre: Resident Evil 1 - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: None - Año: None
+        
+08:45:28 PM: DEBUG [Videojuego_Dao.py:56] 
+            Id videojuego: 2 - Nombre: Grand Theft Auto III - Género: Acción-Aventura
+            Desarrolladora: Rockstar - Plataforma: None - Año: None
+        
+08:45:28 PM: DEBUG [Videojuego_Dao.py:56] 
+            Id videojuego: 9 - Nombre: Warcraft II: Tides of Darkness - Género: Estrategia
+            Desarrolladora: Blizzard Entertainment - Plataforma: None - Año: None
+        
+08:45:28 PM: DEBUG [Videojuego_Dao.py:56] 
+            Id videojuego: 10 - Nombre: Perfect Dark - Género: FPS
+            Desarrolladora: Rare - Plataforma: None - Año: None
+        
+08:45:28 PM: DEBUG [Videojuego_Dao.py:56] 
+            Id videojuego: 11 - Nombre: Super Mario World 2: Yoshi's Island - Género: Plataformas
+            Desarrolladora: Nintendo - Plataforma: None - Año: None
+        
+08:45:28 PM: DEBUG [Videojuego_Dao.py:56] 
+            Id videojuego: 12 - Nombre: Age of Empires II - Género: Estrategia
+            Desarrolladora: Ensemble Studios - Plataforma: None - Año: None
+        
+08:45:28 PM: DEBUG [Videojuego_Dao.py:56] 
+            Id videojuego: 14 - Nombre: Resident Evil 3 - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: None - Año: None
+        
+08:54:22 PM: DEBUG [Conexion.py:23] Conexión exitosa: <connection object at 0x000001878DA91690; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+08:54:22 PM: DEBUG [Conexion.py:36] Se abrió correctamente el cursor: <cursor object at 0x000001878F8E1A80; closed: 0>
+08:54:22 PM: DEBUG [Videojuego_Dao.py:48] Videojuego eliminado: 
+            Id videojuego: 14 - Nombre: None - Género: None
+            Desarrolladora: None - Plataforma: None - Año: None
+        
+08:54:22 PM: DEBUG [Videojuego_Dao.py:65] Videojuego eliminado: 1
+08:54:22 PM: DEBUG [Videojuego_Dao.py:70] 
+            Id videojuego: 1 - Nombre: Resident Evil 1 - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: None - Año: None
+        
+08:54:22 PM: DEBUG [Videojuego_Dao.py:70] 
+            Id videojuego: 2 - Nombre: Grand Theft Auto III - Género: Acción-Aventura
+            Desarrolladora: Rockstar - Plataforma: None - Año: None
+        
+08:54:22 PM: DEBUG [Videojuego_Dao.py:70] 
+            Id videojuego: 9 - Nombre: Warcraft II: Tides of Darkness - Género: Estrategia
+            Desarrolladora: Blizzard Entertainment - Plataforma: None - Año: None
+        
+08:54:22 PM: DEBUG [Videojuego_Dao.py:70] 
+            Id videojuego: 10 - Nombre: Perfect Dark - Género: FPS
+            Desarrolladora: Rare - Plataforma: None - Año: None
+        
+08:54:22 PM: DEBUG [Videojuego_Dao.py:70] 
+            Id videojuego: 11 - Nombre: Super Mario World 2: Yoshi's Island - Género: Plataformas
+            Desarrolladora: Nintendo - Plataforma: None - Año: None
+        
+08:54:22 PM: DEBUG [Videojuego_Dao.py:70] 
+            Id videojuego: 12 - Nombre: Age of Empires II - Género: Estrategia
+            Desarrolladora: Ensemble Studios - Plataforma: None - Año: None
+        
+04:55:24 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001E556897F40>
+04:55:24 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001E5567539A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:55:24 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001E556753780; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:56:18 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000202886B7F40>
+04:56:18 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x00000202885739A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:56:18 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x0000020288573780; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:56:18 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000002028A46C040; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:56:18 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000002028A46C370; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:56:18 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000002028A46C260; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:57:02 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000002544F9FBF40>
+04:57:02 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000002544F8839A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:57:02 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000002544F883780; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:57:03 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000002545177C040; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:57:03 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000002545177C370; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:57:04 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000002545177C260; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:57:32 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001C7CAA3BF40>
+04:57:32 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001C7CA8C39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:57:33 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001C7CA8C3780; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:57:33 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001C7CC7BC040; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:57:33 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001C7CC7BC370; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:57:34 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001C7CC7BC260; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+04:57:34 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001C7CC7BC480; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:09:34 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001443FF7A3E0>
+05:09:34 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001443E0C39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:09:34 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x000001443E0C39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:09:48 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001DD758DA3B0>
+05:09:48 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001DD735E39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:09:48 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x000001DD735E39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:09:48 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001DD735E39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:09:49 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001DD735E3780; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:09:49 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001DD75920040; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:09:49 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001DD75920370; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:09:50 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001DD75920260; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:09:57 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000294FF4BA3E0>
+05:09:57 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x00000294FE6439A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:09:57 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x00000294FE6439A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:09:57 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x00000294FE6439A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:09:58 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x00000294FE643780; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:09:58 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x00000294FF500040; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:09:59 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x00000294FF500370; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:09:59 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x00000294FF500260; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:11:12 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001DA9C1BA4D0>
+05:11:12 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001DA9A2F39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:11:12 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x000001DA9A2F39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:11:12 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001DA9A2F39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:11:12 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001DA9A2F3780; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:11:12 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x000001DA9A2F3780; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:11:12 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001DA9A2F3780; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:11:13 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001DA9C200040; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:11:13 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x000001DA9C200040; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:11:13 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001DA9C200040; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:21:13 PM: DEBUG [Cursor_del_pool.py:10] Inicio del método with __enter__
+05:21:13 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000016FAF317E20>
+05:21:13 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x0000016FAF1D39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:21:13 PM: DEBUG [Cursor_del_pool.py:28] Dentro del bloque with
+05:21:13 PM: DEBUG [Cursor_del_pool.py:30] [(2, 'Grand Theft Auto III', 'Acción-Aventura', 'Rockstar', 'Play Station 2', 2001), (9, 'Warcraft II: Tides of Darkness', 'Estrategia', 'Blizzard Entertainment', 'Microsoft Windows', 1995), (10, 'Perfect Dark', 'FPS', 'Rare', 'Nintendo 64', 2000), (11, "Super Mario World 2: Yoshi's Island", 'Plataformas', 'Nintendo', 'Super Nintendo', 1995), (12, 'Age of Empires II', 'Estrategia', 'Ensemble Studios', 'Microsoft Windows', 1999), (1, 'Resident Evil 1', 'Survival Horror', 'Capcom', 'Play Station', 1996)]
+05:21:13 PM: DEBUG [Cursor_del_pool.py:16] Se ejecuta método __exit__
+05:21:13 PM: DEBUG [Cursor_del_pool.py:22] Commit de la transacción
+05:21:13 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x0000016FAF1D39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:28:39 PM: DEBUG [Cursor_del_pool.py:10] Inicio del método with __enter__
+05:28:39 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001B595FF7E20>
+05:28:39 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001B595EB39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:28:39 PM: DEBUG [Cursor_del_pool.py:28] Dentro del bloque with
+05:28:39 PM: DEBUG [Cursor_del_pool.py:30] [(2, 'Grand Theft Auto III', 'Acción-Aventura', 'Rockstar', 'Play Station 2', 2001), (9, 'Warcraft II: Tides of Darkness', 'Estrategia', 'Blizzard Entertainment', 'Microsoft Windows', 1995), (10, 'Perfect Dark', 'FPS', 'Rare', 'Nintendo 64', 2000), (11, "Super Mario World 2: Yoshi's Island", 'Plataformas', 'Nintendo', 'Super Nintendo', 1995), (12, 'Age of Empires II', 'Estrategia', 'Ensemble Studios', 'Microsoft Windows', 1999), (1, 'Resident Evil 1', 'Survival Horror', 'Capcom', 'Play Station', 1996)]
+05:28:39 PM: DEBUG [Cursor_del_pool.py:16] Se ejecuta método __exit__
+05:28:39 PM: DEBUG [Cursor_del_pool.py:22] Commit de la transacción
+05:28:39 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x000001B595EB39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:29:24 PM: DEBUG [Cursor_del_pool.py:10] Inicio del método with __enter__
+05:29:24 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000017CE7475F30>
+05:29:24 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x0000017CE51739A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:29:24 PM: DEBUG [Cursor_del_pool.py:16] Se ejecuta método __exit__
+05:29:24 PM: DEBUG [Cursor_del_pool.py:22] Commit de la transacción
+05:29:24 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x0000017CE51739A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:29:24 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 1 - Nombre: Resident Evil 1 - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: None - Año: None
+        
+05:29:24 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 2 - Nombre: Grand Theft Auto III - Género: Acción-Aventura
+            Desarrolladora: Rockstar - Plataforma: None - Año: None
+        
+05:29:24 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 9 - Nombre: Warcraft II: Tides of Darkness - Género: Estrategia
+            Desarrolladora: Blizzard Entertainment - Plataforma: None - Año: None
+        
+05:29:24 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 10 - Nombre: Perfect Dark - Género: FPS
+            Desarrolladora: Rare - Plataforma: None - Año: None
+        
+05:29:24 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 11 - Nombre: Super Mario World 2: Yoshi's Island - Género: Plataformas
+            Desarrolladora: Nintendo - Plataforma: None - Año: None
+        
+05:29:24 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 12 - Nombre: Age of Empires II - Género: Estrategia
+            Desarrolladora: Ensemble Studios - Plataforma: None - Año: None
+        
+05:36:35 PM: DEBUG [Cursor_del_pool.py:10] Inicio del método with __enter__
+05:36:35 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000016E781F5F30>
+05:36:35 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x0000016E763039A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:36:35 PM: DEBUG [Cursor_del_pool.py:16] Se ejecuta método __exit__
+05:36:35 PM: DEBUG [Cursor_del_pool.py:22] Commit de la transacción
+05:36:35 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x0000016E763039A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:36:35 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 1 - Nombre: Resident Evil 1 - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: None - Año: None
+        
+05:36:35 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 2 - Nombre: Grand Theft Auto III - Género: Acción-Aventura
+            Desarrolladora: Rockstar - Plataforma: None - Año: None
+        
+05:36:35 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 9 - Nombre: Warcraft II: Tides of Darkness - Género: Estrategia
+            Desarrolladora: Blizzard Entertainment - Plataforma: None - Año: None
+        
+05:36:35 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 10 - Nombre: Perfect Dark - Género: FPS
+            Desarrolladora: Rare - Plataforma: None - Año: None
+        
+05:36:35 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 11 - Nombre: Super Mario World 2: Yoshi's Island - Género: Plataformas
+            Desarrolladora: Nintendo - Plataforma: None - Año: None
+        
+05:36:35 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 12 - Nombre: Age of Empires II - Género: Estrategia
+            Desarrolladora: Ensemble Studios - Plataforma: None - Año: None
+        
+05:37:19 PM: DEBUG [Cursor_del_pool.py:10] Inicio del método with __enter__
+05:37:20 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001E162871F90>
+05:37:20 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001E1609839A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:37:20 PM: DEBUG [Cursor_del_pool.py:16] Se ejecuta método __exit__
+05:37:20 PM: DEBUG [Cursor_del_pool.py:22] Commit de la transacción
+05:37:20 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x000001E1609839A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:37:20 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 1 - Nombre: Resident Evil 1 - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Play Station - Año: 1996
+        
+05:37:20 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 2 - Nombre: Grand Theft Auto III - Género: Acción-Aventura
+            Desarrolladora: Rockstar - Plataforma: Play Station 2 - Año: 2001
+        
+05:37:20 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 9 - Nombre: Warcraft II: Tides of Darkness - Género: Estrategia
+            Desarrolladora: Blizzard Entertainment - Plataforma: Microsoft Windows - Año: 1995
+        
+05:37:20 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 10 - Nombre: Perfect Dark - Género: FPS
+            Desarrolladora: Rare - Plataforma: Nintendo 64 - Año: 2000
+        
+05:37:20 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 11 - Nombre: Super Mario World 2: Yoshi's Island - Género: Plataformas
+            Desarrolladora: Nintendo - Plataforma: Super Nintendo - Año: 1995
+        
+05:37:20 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 12 - Nombre: Age of Empires II - Género: Estrategia
+            Desarrolladora: Ensemble Studios - Plataforma: Microsoft Windows - Año: 1999
+        
+05:37:29 PM: DEBUG [Cursor_del_pool.py:10] Inicio del método with __enter__
+05:37:29 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x000001D9B1CF5F60>
+05:37:29 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x000001D9AFA039A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:37:29 PM: DEBUG [Cursor_del_pool.py:16] Se ejecuta método __exit__
+05:37:29 PM: DEBUG [Cursor_del_pool.py:22] Commit de la transacción
+05:37:29 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x000001D9AFA039A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:37:29 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 1 - Nombre: Resident Evil 1 - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Play Station - Año: None
+        
+05:37:29 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 2 - Nombre: Grand Theft Auto III - Género: Acción-Aventura
+            Desarrolladora: Rockstar - Plataforma: Play Station 2 - Año: None
+        
+05:37:29 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 9 - Nombre: Warcraft II: Tides of Darkness - Género: Estrategia
+            Desarrolladora: Blizzard Entertainment - Plataforma: Microsoft Windows - Año: None
+        
+05:37:29 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 10 - Nombre: Perfect Dark - Género: FPS
+            Desarrolladora: Rare - Plataforma: Nintendo 64 - Año: None
+        
+05:37:29 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 11 - Nombre: Super Mario World 2: Yoshi's Island - Género: Plataformas
+            Desarrolladora: Nintendo - Plataforma: Super Nintendo - Año: None
+        
+05:37:29 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 12 - Nombre: Age of Empires II - Género: Estrategia
+            Desarrolladora: Ensemble Studios - Plataforma: Microsoft Windows - Año: None
+        
+05:37:37 PM: DEBUG [Cursor_del_pool.py:10] Inicio del método with __enter__
+05:37:37 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000022A58F41F90>
+05:37:37 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x0000022A56C439A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:37:37 PM: DEBUG [Cursor_del_pool.py:16] Se ejecuta método __exit__
+05:37:37 PM: DEBUG [Cursor_del_pool.py:22] Commit de la transacción
+05:37:37 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x0000022A56C439A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:37:37 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 1 - Nombre: Resident Evil 1 - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Play Station - Año: 1996
+        
+05:37:37 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 2 - Nombre: Grand Theft Auto III - Género: Acción-Aventura
+            Desarrolladora: Rockstar - Plataforma: Play Station 2 - Año: 2001
+        
+05:37:37 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 9 - Nombre: Warcraft II: Tides of Darkness - Género: Estrategia
+            Desarrolladora: Blizzard Entertainment - Plataforma: Microsoft Windows - Año: 1995
+        
+05:37:37 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 10 - Nombre: Perfect Dark - Género: FPS
+            Desarrolladora: Rare - Plataforma: Nintendo 64 - Año: 2000
+        
+05:37:37 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 11 - Nombre: Super Mario World 2: Yoshi's Island - Género: Plataformas
+            Desarrolladora: Nintendo - Plataforma: Super Nintendo - Año: 1995
+        
+05:37:37 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 12 - Nombre: Age of Empires II - Género: Estrategia
+            Desarrolladora: Ensemble Studios - Plataforma: Microsoft Windows - Año: 1999
+        
+05:40:34 PM: DEBUG [Cursor_del_pool.py:10] Inicio del método with __enter__
+05:40:35 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x0000024BD9C42260>
+05:40:35 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x0000024BD79439A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:40:35 PM: DEBUG [Videojuego_Dao.py:29] Videojuego insertado: 
+            Id videojuego: None - Nombre: Yoshi's Island - Género: Plataformas
+            Desarrolladora: Nintendo - Plataforma: SNES - Año: 1995
+        
+05:40:35 PM: DEBUG [Cursor_del_pool.py:16] Se ejecuta método __exit__
+05:40:35 PM: DEBUG [Cursor_del_pool.py:22] Commit de la transacción
+05:40:35 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x0000024BD79439A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:40:35 PM: DEBUG [Videojuego_Dao.py:52] Videojuego insertado: 1
+05:40:35 PM: DEBUG [Cursor_del_pool.py:10] Inicio del método with __enter__
+05:40:35 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x0000024BD79439A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:40:35 PM: DEBUG [Cursor_del_pool.py:16] Se ejecuta método __exit__
+05:40:35 PM: DEBUG [Cursor_del_pool.py:22] Commit de la transacción
+05:40:35 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x0000024BD79439A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:40:35 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 1 - Nombre: Resident Evil 1 - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Play Station - Año: 1996
+        
+05:40:35 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 2 - Nombre: Grand Theft Auto III - Género: Acción-Aventura
+            Desarrolladora: Rockstar - Plataforma: Play Station 2 - Año: 2001
+        
+05:40:35 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 9 - Nombre: Warcraft II: Tides of Darkness - Género: Estrategia
+            Desarrolladora: Blizzard Entertainment - Plataforma: Microsoft Windows - Año: 1995
+        
+05:40:35 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 10 - Nombre: Perfect Dark - Género: FPS
+            Desarrolladora: Rare - Plataforma: Nintendo 64 - Año: 2000
+        
+05:40:35 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 11 - Nombre: Super Mario World 2: Yoshi's Island - Género: Plataformas
+            Desarrolladora: Nintendo - Plataforma: Super Nintendo - Año: 1995
+        
+05:40:35 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 12 - Nombre: Age of Empires II - Género: Estrategia
+            Desarrolladora: Ensemble Studios - Plataforma: Microsoft Windows - Año: 1999
+        
+05:40:35 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 15 - Nombre: Yoshi's Island - Género: Plataformas
+            Desarrolladora: Nintendo - Plataforma: SNES - Año: 1995
+        
+05:45:20 PM: DEBUG [Cursor_del_pool.py:10] Inicio del método with __enter__
+05:45:20 PM: DEBUG [Conexion.py:31] Creación del pool exitosa: <psycopg2.pool.SimpleConnectionPool object at 0x00000262FC0865C0>
+05:45:20 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x00000262F9DB39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:45:20 PM: DEBUG [Videojuego_Dao.py:29] Videojuego insertado: 
+            Id videojuego: None - Nombre: Yoshi's Island - Género: Plataformas
+            Desarrolladora: Nintendo - Plataforma: SNES - Año: 1995
+        
+05:45:20 PM: DEBUG [Cursor_del_pool.py:16] Se ejecuta método __exit__
+05:45:20 PM: DEBUG [Cursor_del_pool.py:22] Commit de la transacción
+05:45:20 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x00000262F9DB39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:45:20 PM: DEBUG [Videojuego_Dao.py:52] Videojuego insertado: 1
+05:45:20 PM: DEBUG [Cursor_del_pool.py:10] Inicio del método with __enter__
+05:45:20 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x00000262F9DB39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:45:20 PM: DEBUG [Videojuego_Dao.py:37] Videojuego actualizado: 
+            Id videojuego: 1 - Nombre: Resident Evil: Code: Veronica - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Dreamcast - Año: 2000
+        
+05:45:20 PM: DEBUG [Cursor_del_pool.py:16] Se ejecuta método __exit__
+05:45:20 PM: DEBUG [Cursor_del_pool.py:22] Commit de la transacción
+05:45:20 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x00000262F9DB39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:45:20 PM: DEBUG [Videojuego_Dao.py:57] Videojuego actualizado: 1
+05:45:20 PM: DEBUG [Cursor_del_pool.py:10] Inicio del método with __enter__
+05:45:20 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x00000262F9DB39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:45:20 PM: DEBUG [Videojuego_Dao.py:45] Videojuego eliminado: 
+            Id videojuego: 15 - Nombre: None - Género: None
+            Desarrolladora: None - Plataforma: None - Año: None
+        
+05:45:20 PM: DEBUG [Cursor_del_pool.py:16] Se ejecuta método __exit__
+05:45:20 PM: DEBUG [Cursor_del_pool.py:22] Commit de la transacción
+05:45:20 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x00000262F9DB39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:45:20 PM: DEBUG [Videojuego_Dao.py:62] Videojuego eliminado: 1
+05:45:20 PM: DEBUG [Cursor_del_pool.py:10] Inicio del método with __enter__
+05:45:20 PM: DEBUG [Conexion.py:18] Conexión obtenida del pool: <connection object at 0x00000262F9DB39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:45:20 PM: DEBUG [Cursor_del_pool.py:16] Se ejecuta método __exit__
+05:45:20 PM: DEBUG [Cursor_del_pool.py:22] Commit de la transacción
+05:45:20 PM: DEBUG [Conexion.py:42] Regresamos la conexión al pool: <connection object at 0x00000262F9DB39A0; dsn: 'user=postgres password=xxx dbname=ejercicio_postgresql host=127.0.0.1 port=5432', closed: 0>
+05:45:20 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 1 - Nombre: Resident Evil: Code: Veronica - Género: Survival Horror
+            Desarrolladora: Capcom - Plataforma: Dreamcast - Año: 2000
+        
+05:45:21 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 2 - Nombre: Grand Theft Auto III - Género: Acción-Aventura
+            Desarrolladora: Rockstar - Plataforma: Play Station 2 - Año: 2001
+        
+05:45:21 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 9 - Nombre: Warcraft II: Tides of Darkness - Género: Estrategia
+            Desarrolladora: Blizzard Entertainment - Plataforma: Microsoft Windows - Año: 1995
+        
+05:45:21 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 10 - Nombre: Perfect Dark - Género: FPS
+            Desarrolladora: Rare - Plataforma: Nintendo 64 - Año: 2000
+        
+05:45:21 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 11 - Nombre: Super Mario World 2: Yoshi's Island - Género: Plataformas
+            Desarrolladora: Nintendo - Plataforma: Super Nintendo - Año: 1995
+        
+05:45:21 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 12 - Nombre: Age of Empires II - Género: Estrategia
+            Desarrolladora: Ensemble Studios - Plataforma: Microsoft Windows - Año: 1999
+        
+05:45:21 PM: DEBUG [Videojuego_Dao.py:67] 
+            Id videojuego: 16 - Nombre: Yoshi's Island - Género: Plataformas
+            Desarrolladora: Nintendo - Plataforma: SNES - Año: 1995
+        
